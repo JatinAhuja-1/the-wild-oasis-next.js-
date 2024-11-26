@@ -1,0 +1,4 @@
+Built in React component that we can use to catch/isoalate components (or entire subtrees) that are not ready to be rendered("suspending")
+What causesa component to be suspending:-
+1.) Fetching data(with a supported library)
+2.) Loading code (with React's lazy loading)
