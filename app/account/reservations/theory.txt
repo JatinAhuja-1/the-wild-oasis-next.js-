@@ -1,0 +1,2 @@
+after maing a different component fo the reservation render list they are entirely rendered on client side 
+on server we are just grabing the data and passing to the client
